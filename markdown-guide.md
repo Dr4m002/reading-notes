@@ -74,7 +74,9 @@ Se crean con asteriscos `*`, guiones `-` o más comunes, más `+`:
 
 ## Enlace de contenido util:
 
-[Sintaxis de escritura y formato básicos](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Sintaxis de escritura y formato básicos](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+- [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 
 ## Tabla comparativa entre HTML y Markdown
 
@@ -85,4 +87,3 @@ Aquí tienes una tabla comparativa que muestra las principales diferencias entre
 | **Complejidad**          | Más detallado y preciso                   | Más sencillo y rápido                 |
 | **Objetivo**             | Construcción de páginas web completas     | Creación de contenido y documentación |
 | **Curva de aprendizaje** | Requiere más tiempo                       | Fácil de aprender                     |
-
