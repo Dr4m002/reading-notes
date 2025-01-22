@@ -6,12 +6,11 @@ Tengo 22 años y vivo en Lima, Perú. Una palabra que me define es la paciencia.
 
 ## Tabla comparativa entre HTML y Markdown
 
-| **Aspecto**              | **HTML**                                  | **Markdown**                          |
-| ------------------------ | ----------------------------------------- | ------------------------------------- |
-| **Complejidad**          | Más detallado y preciso                   | Más sencillo y rápido                 |
-| **Objetivo**             | Construcción de páginas web completas     | Creación de contenido y documentación |
-| **Curva de aprendizaje** | Requiere más tiempo                       | Fácil de aprender                     |
-
+| **Aspecto**              | **HTML**                                | **Markdown**                        |
+| ------------------------ | --------------------------------------- | ----------------------------------- |
+| **Complejidad**          | Más detallado y preciso                 | Más sencillo y rápido               |
+| **Objetivo**             | Construcción de páginas web completas   | Creación de contenido y documentación |
+| **Curva de aprendizaje** | Requiere más tiempo                     | Fácil de aprender                   |
 
 ## Visión de crecimiento como desarrollador
 
